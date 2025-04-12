@@ -1,7 +1,3 @@
-Here's a clean and informative `README.md` you can upload with your project on GitHub. This version includes a description, setup instructions, gameplay overview, and other standard details to make it easy for others to understand and use your code:
-
----
-
 # 🎮 MakerQuest: Pico Edition - Reaction Game
 
 A fast-paced reaction game built with the Raspberry Pi Pico, where two players compete to see who reacts quickest to a buzzer cue! This project is a fun way to explore physical computing with buttons, LEDs, buzzers, and RGB lights.
